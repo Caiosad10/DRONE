@@ -1,4 +1,4 @@
-# Primeiro projeto - ABANDONADO SEM PREVISAO DE VOLTA
+# Primeiro projeto - ABANDONADO SEM PREVISÃO DE VOLTAR
 
 Neste primeiro projeto, eu tive a ideia quando eu estava fora de casa. Avistei um drone e me questionei como ele funcionava, certamente pensei que ele foi programado.
 
